@@ -1,0 +1,2 @@
+# SDF2Volume
+SDFをNxNxNのバイナリボリュームデータに変換する
